@@ -1,5 +1,5 @@
-box:{
-	box1:[
+[
+	[
 	{
 		img1:"https://woshiwuxin.github.io/tianmei1/4-05.png",
 		text1:"天天特价"
@@ -18,7 +18,7 @@ box:{
 		text1:"商品分类"
 	},
 	],
-	box3:[
+	[
 		{
 			text1:"3C潮玩城",
 			text2:"享折扣钜惠",
@@ -35,14 +35,14 @@ box:{
 			img1:"https://woshiwuxin.github.io/tianmei1/4-12.png"
 		}
 	],
-	box4:[
+	[
 		{
 			img1:"https://woshiwuxin.github.io/tianmei1/4-13.png",
 			text1:"微型专业录音笔",
 			text2:"录音监听 无损音质"
 		}
 	],
-	box6:[
+	[
 		{
 			img1:"woshiwuxin.github.io/tianmei1/4-14.png",
 			img2:"woshiwuxin.github.io/tianmei1/4-15.png",
@@ -60,7 +60,7 @@ box:{
 			text2:"￥599"
 		}
 	],
-	box7:[
+	[
 	{
 		img1:"woshiwuxin.github.io/tianmei1/4-27.png",
 		img2:"woshiwuxin.github.io/tianmei1/4-18.png",
@@ -102,7 +102,7 @@ box:{
 		img3:"woshiwuxin.github.io/tianmei1/4-28.png"
 	}
 	],
-	box8:[
+	[
 		[
 			{
 				text1:"12:00",
@@ -160,4 +160,4 @@ box:{
 			}
 		]
 	]
-}
+]
