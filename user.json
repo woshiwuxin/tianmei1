@@ -7,7 +7,173 @@
 },
 {
 	"id":2,
-	"name":"胡征文",
+	"name":"胡征文",[
+	[
+		{
+			img1:"https://woshiwuxin.github.io/tianmei1/4-05.png",
+			text1:"天天特价"
+		},
+		{
+			img1:"https://woshiwuxin.github.io/tianmei1/4-06.png",
+			text1:"领优惠券"
+		},
+		{
+			img1:"https://woshiwuxin.github.io/tianmei1/4-07.png",
+			text1:"扫码购物"
+		},
+		{
+			img1:"https://woshiwuxin.github.io/tianmei1/4-08.png",
+			text1:"国美管家"
+		},
+		{
+			img1:"https://woshiwuxin.github.io/tianmei1/4-09.png",
+			text1:"商品分类"
+		}
+	],
+	[
+		{
+			text1:"3C潮玩城",
+			text2:"享折扣钜惠",
+			img1:"https://woshiwuxin.github.io/tianmei1/4-10.png"
+		},
+		{
+			text1:"食品生鲜",
+			text2:"尝鲜低至9.9元",
+			img1:"https://woshiwuxin.github.io/tianmei1/4-11.png"
+		},
+		{
+			text1:"生活家电",
+			text2:"天天特惠",
+			img1:"https://woshiwuxin.github.io/tianmei1/4-12.png"
+		}
+	],
+	[
+		{
+			img1:"https://woshiwuxin.github.io/tianmei1/4-13.png",
+			text1:"微型专业录音笔",
+			text2:"录音监听 无损音质"
+		}
+	],
+	[
+		{
+			img1:"woshiwuxin.github.io/tianmei1/4-14.png",
+			img2:"woshiwuxin.github.io/tianmei1/4-15.png",
+			text1:"佐菲亚真皮储物高箱床",
+			text2:"￥1260"
+		},
+		{
+			img2:"woshiwuxin.github.io/tianmei1/4-16.png",
+			text1:"佐菲亚 北欧实木床",
+			text2:"￥1060"
+		},
+		{
+			img2:"woshiwuxin.github.io/tianmei1/4-17.png",
+			text1:"佐菲亚椰棕弹簧床垫",
+			text2:"￥599"
+		}
+	],
+	[
+	{
+		img1:"woshiwuxin.github.io/tianmei1/4-27.png",
+		img2:"woshiwuxin.github.io/tianmei1/4-18.png",
+		text1:"曼秀雷郭能量水活洁面乳150ml",
+		text2:"360旋转 节能省电",
+		text3:"￥19.9",
+		img3:"woshiwuxin.github.io/tianmei1/4-28.png"
+	},
+	{
+		img1:"woshiwuxin.github.io/tianmei1/4-27.png",
+		img2:"woshiwuxin.github.io/tianmei1/4-19.png",
+		text1:"曼秀雷郭能量水活洁面乳150ml",
+		text2:"360旋转 节能省电",
+		text3:"￥19.9",
+		img3:"woshiwuxin.github.io/tianmei1/4-28.png"
+	},
+	{
+		img1:"woshiwuxin.github.io/tianmei1/4-27.png",
+		img2:"woshiwuxin.github.io/tianmei1/4-20.png",
+		text1:"曼秀雷郭能量水活洁面乳150ml",
+		text2:"360旋转 节能省电",
+		text3:"￥19.9",
+		img3:"woshiwuxin.github.io/tianmei1/4-28.png"
+	},
+	{
+		img1:"woshiwuxin.github.io/tianmei1/4-27.png",
+		img2:"woshiwuxin.github.io/tianmei1/4-21.png",
+		text1:"曼秀雷郭能量水活洁面乳150ml",
+		text2:"360旋转 节能省电",
+		text3:"￥19.9",
+		img3:"woshiwuxin.github.io/tianmei1/4-28.png"
+	},
+	{
+		img1:"woshiwuxin.github.io/tianmei1/4-27.png",
+		img2:"woshiwuxin.github.io/tianmei1/4-22.png",
+		text1:"曼秀雷郭能量水活洁面乳150ml",
+		text2:"360旋转 节能省电",
+		text3:"￥19.9",
+		img3:"woshiwuxin.github.io/tianmei1/4-28.png"
+	}
+	],
+	[
+		[
+			{
+				text1:"12:00",
+				text2:"抢购中"
+			},
+			{
+				text1:"16:00",
+				text2:"抢购中"
+			},
+			{
+				text1:"20:00",
+				text2:"抢购中"
+			},
+			{
+				text1:"0:00",
+				text2:"抢购中"
+			},
+			{
+				text1:"8:00",
+				text2:"抢购中"
+			}
+		],
+		[
+			{
+				img1:"woshiwuxin.github.io/tianmei1/4-23.png",
+				text1:"自营",
+				text1:"美的（Midea）电饭煲MB-",
+				text1:"WYJ301",
+				text1:"￥99.00",
+				text1:"已售 48%"
+			},
+			{
+				img1:"woshiwuxin.github.io/tianmei1/4-24.png",
+				text1:"自营",
+				text1:"美的（Midea）电饭煲MB-",
+				text1:"WYJ301",
+				text1:"￥99.00",
+				text1:"已售 48%"
+			},
+			{
+				img1:"woshiwuxin.github.io/tianmei1/4-25.png",
+				text1:"自营",
+				text1:"美的（Midea）电饭煲MB-",
+				text1:"WYJ301",
+				text1:"￥99.00",
+				text1:"已售 48%"
+			},
+			{
+				img1:"woshiwuxin.github.io/tianmei1/4-26.png",
+				text1:"自营",
+				text1:"美的（Midea）电饭煲MB-",
+				text1:"WYJ301",
+				text1:"￥99.00",
+				text1:"已售 48%"
+			}
+		]
+	]
+]
+
 	"age":"20岁",
 	"sex":"帅哥"
 },
